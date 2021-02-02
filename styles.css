@@ -1,0 +1,16 @@
+html {
+    background-color: peachpuff;
+  }
+  
+  h1 {
+    color: green;
+  }
+  
+  .friend {
+    background-color: rgb(79, 51, 156);
+    color: rgb(221, 37, 37);
+  }
+  
+  .friend h3 {
+      text-transform: uppercase;
+  }
